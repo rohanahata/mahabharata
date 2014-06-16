@@ -5,7 +5,7 @@ import operator
 import string
 import json
 import wikipedia
-
+import numpy
 '''
 Purpose of this code segment is to cache the proper nouns. This has been executed just once.
 Caching for the fact that POS tagging takes north of an hour on the texts
